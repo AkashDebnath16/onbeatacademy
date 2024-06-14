@@ -1,1 +1,1 @@
-(https://github.com/AkashDebnath16/onbeatacademy.git)
+https://akashdebnath16.github.io/onbeatacademy/
